@@ -54,6 +54,4 @@ document.addEventListener('DOMContentLoaded', () => {
     // This captures clicks on any element within the body.
     document.body.addEventListener('click', logClickEvent);
 
-    // Optional: You could add more specific event listeners if needed,
-    // e.g., for form submissions, mouseover, keypress, etc.
 });
